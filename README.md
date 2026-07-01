@@ -19,5 +19,3 @@ Local-First Offline Storage: Built on IndexedDB technology, your files and folde
 Whether you are keeping track of articulated models, fidget designs, custom structural parts, or point-of-sale displays, ForgeBox 3D keeps your workspace clean so you can focus on creating.
 
 No accounts, no cloud fees, no clutter. Just drag, sort, and preview.
-
-How does this sound for a pitch, or is there a specific vibe or detail you want to lean into more?
